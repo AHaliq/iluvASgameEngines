@@ -1,0 +1,40 @@
+ARITH
+-----
+dot				-
+cross			-
+add				-
+subtract		-
+multiply		-
+multiplyScalar	-
+
+VEC MATH
+--------
+lerp			-
+distance		-
+distanceSquared	-
+
+reflect			-
+project			-
+reflect			-
+
+ANGLE
+-----
+orthogonal		-
+normal			-
+
+rotateByCosSin
+rotateTo
+
+angleBetween	-
+angleBetweenSin	-
+angleBetweenCos	-
+
+BOOLEAN
+-------
+
+isEqual
+isNormal
+isNear
+isWithin
+Null
+Clone
